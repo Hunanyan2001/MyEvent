@@ -1,0 +1,14 @@
+/* src/Components/HomePage/HomePage.css */
+.home-wrapper {
+  padding: 20px;
+  text-align: center;
+}
+
+.home-wrapper h1 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+.home-wrapper p {
+  font-size: 1.2rem;
+}
